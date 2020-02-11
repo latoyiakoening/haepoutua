@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohveigaop.datascienchris.com/sitemap.xml
